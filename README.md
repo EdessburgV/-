@@ -5,6 +5,7 @@
 # Структура репозитория
 
 [аудиторный отчет.docx](https://github.com/user-attachments/files/28918388/default.docx) - полный текст анализа данной статьи (репликационный анализ).
+
 [код проверки.docx](https://github.com/user-attachments/files/28918406/default.docx) - код, с помощью которого можно проверить данные исследования.
 
 # Выводы аудита
